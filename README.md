@@ -12,6 +12,24 @@ A curated list of awesome tools, resources and workflow tips making an awesome d
 
 This list is dedicated for our team so tools with license issue using in our office are excluded.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Software](#software)
+  - [Desktop](#desktop)
+  - [Editors](#editors)
+    - [Visual Studio Code](#visual-studio-code)
+  - [Git](#git)
+    - [GitHub](#github)
+  - [Modeling](#modeling)
+  - [Presentation](#presentation)
+  - [Shell and Terminal](#shell-and-terminal)
+- [Hardware](#hardware)
+- [Contributing](#contributing)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Software
 
 *Note: please do your best to mark running platform with `Win` `Mac` `Linux` `Web` `Android` `iOS` `Chrome`*

@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "toc": "doctoc README.md --maxlevel 4"
+  },
+  "dependencies": {
+    "doctoc": "^1.3.0"
+  }
+}
