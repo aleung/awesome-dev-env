@@ -17,14 +17,12 @@ This list is dedicated for our team so tools with license issue using in our off
 
 
 - [Software](#software)
-  - [Desktop](#desktop)
+  - [Documentation](#documentation)
   - [Editors](#editors)
-    - [Visual Studio Code](#visual-studio-code)
   - [Git](#git)
-    - [GitHub](#github)
   - [Modeling](#modeling)
-  - [Presentation](#presentation)
   - [Shell and Terminal](#shell-and-terminal)
+  - [Others (to be categorized)](#others-to-be-categorized)
 - [Hardware](#hardware)
 - [Contributing](#contributing)
 
@@ -32,57 +30,51 @@ This list is dedicated for our team so tools with license issue using in our off
 
 ## Software
 
-*Note: please do your best to mark running platform with `Win` `Mac` `Linux` `Web` `Android` `iOS` `Chrome`*
+*Note: please do your best to mark running platform with `Win` `Mac` `Linux` `Web` `Android` `iOS` `Chrome`.*
 
-### Desktop
-*Tools for improving and hacking around with your vanilla desktop*
+### Documentation
+*Tools for writing document and presenting your work*
 
-* ​
-
+| Name                              | Description                              |      Platform       |
+| :-------------------------------- | :--------------------------------------- | :-----------------: |
+| [slides.com](https://slides.com/) | Online creating, presenting and sharing slide decks. |        `Web`        |
+| [Typora](https://typora.io/)      | Give you a seamless experience as both a Markdown reader and a writer. What you see is what you get. | `Win` `Mac` `Linux` |
 
 ### Editors
 *Only awesome tools and addons for your favorite editor*
 
-#### Visual Studio Code
-
-* ​
-
+| Name                                     | Description                              |      Platform       |
+| :--------------------------------------- | :--------------------------------------- | :-----------------: |
+| [Visual Studio Code](https://code.visualstudio.com/) (vscode) | A lightweight code editor for writing modern web and cloud applications. | `Win` `Mac` `Linux` |
 
 ### Git
 *Tools and addons for making an awesome Git experience*
 
-| Name and Link                            | Description              |  Platform   |
-| :--------------------------------------- | :----------------------- | :---------: |
-| [SourceTree](https://www.sourcetreeapp.com/) | Visual Git and Hg client | `Win` `Mac` |
-
-#### GitHub
-
-*Tools and addons for making an awesome GitHub experience*
-
-* [Sourcegraph Chrome Extension for GitHub](https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack) - Online IDE for browsing GitHub projects ([introduction](https://about.sourcegraph.com/blog/browse-github-like-an-ide-with-the-sourcegraph-chrome-extension/)) `Chrome`
+| Name                                     | Description                              |  Platform   |
+| :--------------------------------------- | :--------------------------------------- | :---------: |
+| [Sourcegraph for GitHub](https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack) | Online IDE for browsing GitHub projects ([introduction](https://about.sourcegraph.com/blog/browse-github-like-an-ide-with-the-sourcegraph-chrome-extension/)) |  `Chrome`   |
+| [SourceTree](https://www.sourcetreeapp.com/) | Visual Git and Hg client                 | `Win` `Mac` |
 
 ### Modeling
 
-- PlantUML
-- AstahUML community edition [v6.9](https://members.change-vision.com/members/files/astah_community/6_9_0)
+*Tools for making software design modeling*
 
-### Presentation
-*Tools for presenting your work*
-
-* [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
-* [slides.com](https://slides.com/) - Online creating, presenting and sharing slide decks. `Web`
+| Name                                     | Description                              |         Platform          |
+| :--------------------------------------- | :--------------------------------------- | :-----------------------: |
+| AstahUML community edition [v6.9](https://members.change-vision.com/members/files/astah_community/6_9_0) | Rich feature UML 2.0 modeling tool       |        `Win` `Mac`        |
+| [PlantUML](http://plantuml.com/)         | Create lightweight UML diagrams from a plain text language. | `Win` `Mac` `Linux` `Web` |
 
 ### Shell and Terminal
 *Tools for having an awesome shell environment and terminal work*
 
+* [fasd](https://github.com/clvv/fasd) Command-line productivity booster, offers quick access to files and directories.
+* [iTerm2](http://www.iterm2.com/) - a great terminal replacement `Mac`
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) - A community driven framework for managing zsh configuration.
 * [zsh](http://www.zsh.org/) - A shell designed for interactive use, although it is also a powerful scripting language.
 
+### Others (to be categorized)
 
-* [fasd](https://github.com/clvv/fasd) Command-line productivity booster, offers quick access to files and directories.
-* [homebrew](http://brew.sh) - Makes it easy to install open source packages on an `OS X` system with a single command.
-* [iTerm2](http://www.iterm2.com/) - a great terminal replacement `Mac`
-
+* [homebrew](http://brew.sh) - Makes it easy to install open source packages on an `Mac` system with a single command.
 
 ## Hardware
 
