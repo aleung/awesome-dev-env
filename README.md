@@ -78,7 +78,7 @@ This list is dedicated for our team so tools with license issue using in our off
 
 ## Hardware
 
-* MacBook Pro (Early/Mid 2015) - The best professional laptop for developers. Mac OS X, USB interfaces, comfortable keyboard, and most of all, the glowing Apple logo! 
+* MacBook Pro (Early/Mid 2015) - The best professional laptop for developers until 2017. Mac OS X, USB interfaces, comfortable keyboard, and most of all, the glowing Apple logo! 
 
 ## Contributing
 
