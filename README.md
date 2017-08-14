@@ -71,6 +71,7 @@ This list is dedicated for our team so tools with license issue using in our off
 * [iTerm2](http://www.iterm2.com/) - a great terminal replacement `Mac`
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) - A community driven framework for managing zsh configuration.
 * [zsh](http://www.zsh.org/) - A shell designed for interactive use, although it is also a powerful scripting language.
+* [jq](https://stedolan.github.io/jq/) - a lightweight and flexible command-line JSON processor.
 
 ### Others (to be categorized)
 
