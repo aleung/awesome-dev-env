@@ -50,19 +50,20 @@ This list is dedicated for our team so tools with license issue using in our off
 ### Git
 *Tools and addons for making an awesome Git experience*
 
-| Name                                     | Description                              |  Platform   |
-| :--------------------------------------- | :--------------------------------------- | :---------: |
-| [Sourcegraph for GitHub](https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack) | Online IDE for browsing GitHub projects ([introduction](https://about.sourcegraph.com/blog/browse-github-like-an-ide-with-the-sourcegraph-chrome-extension/)) |  `Chrome`   |
-| [SourceTree](https://www.sourcetreeapp.com/) | Visual Git and Hg client                 | `Win` `Mac` |
+| Name                                         | Description                    |  Platform   |
+| :------------------------------------------- | :----------------------------- | :---------: |
+| [Fork](https://git-fork.com/)                | A fast and friendly git client |    `Mac`    |
+| [SourceTree](https://www.sourcetreeapp.com/) | Visual Git and Hg client       | `Win` `Mac` |
 
 ### Modeling
 
 *Tools for making software design modeling*
 
-| Name                                     | Description                              |         Platform          |
-| :--------------------------------------- | :--------------------------------------- | :-----------------------: |
-| AstahUML community edition [v6.9](https://members.change-vision.com/members/files/astah_community/6_9_0) | Rich feature UML 2.0 modeling tool       |        `Win` `Mac`        |
-| [PlantUML](http://plantuml.com/)         | Create lightweight UML diagrams from a plain text language. | `Win` `Mac` `Linux` `Web` |
+| Name                                                         | Description                                                  |              Platform               |
+| :----------------------------------------------------------- | :----------------------------------------------------------- | :---------------------------------: |
+| AstahUML community edition [v6.9](https://members.change-vision.com/members/files/astah_community/6_9_0) | Rich feature UML 2.0 modeling tool                           |             `Win` `Mac`             |
+| [draw.io](https://about.draw.io/integrations/#integrations_offline) | Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. | `Web` `Chrome`  `Win` `Mac` `Linux` |
+| [PlantUML](http://plantuml.com/)                             | Create lightweight UML diagrams from a plain text language.  |      `Win` `Mac` `Linux` `Web`      |
 
 ### Shell and Terminal
 *Tools for having an awesome shell environment and terminal work*
