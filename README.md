@@ -73,7 +73,8 @@ This list is dedicated for our team so tools with license issue using in our off
 | [cmder](http://cmder.net/), [ConEmu](http://conemu.github.io/) | Improve CLI experience on Windows        |        `Win`        |
 | [fasd](https://github.com/clvv/fasd)     | Command-line productivity booster, offers quick access to files and directories. |    `Mac` `Linux`    |
 | [iTerm2](http://www.iterm2.com/)         | A great terminal replacement             |        `Mac`        |
-| [jq](https://stedolan.github.io/jq/)     | A lightweight and flexible command-line JSON processor. | `Win` `Mac` `Linux` |
+| [jo](https://github.com/jpmens/jo)       | A small utility to create JSON objects   | `Mac` `Linux` |
+| [jq](https://stedolan.github.io/jq/)     | A lightweight and flexible command-line JSON processor. | `Win` `Mac` `Linux` [`Web`](https://jqplay.org/) |
 | [MobaXterm](http://mobaxterm.mobatek.net/) home edition | Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more |        `Win`        |
 | [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) | A community driven framework for managing zsh configuration |    `Mac` `Linux`    |
 | [zsh](http://www.zsh.org/)               | A shell designed for interactive use, although it is also a powerful scripting language. |    `Mac` `Linux`    |
