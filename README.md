@@ -52,7 +52,7 @@ This list is dedicated for our team so tools with license issue using in our off
 
 | Name                                         | Description                    |  Platform   |
 | :------------------------------------------- | :----------------------------- | :---------: |
-| [Fork](https://git-fork.com/)                | A fast and friendly git client |    `Mac`    |
+| [Fork](https://git-fork.com/)                | A fast and friendly git client | `Win` `Mac` |
 | [SourceTree](https://www.sourcetreeapp.com/) | Visual Git and Hg client       | `Win` `Mac` |
 
 ### Modeling
