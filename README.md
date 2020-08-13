@@ -54,6 +54,8 @@ This list is dedicated for our team so tools with license issue using in our off
 | :------------------------------------------- | :----------------------------- | :---------: |
 | [Fork](https://git-fork.com/)                | A fast and friendly git client | `Win` `Mac` |
 | [SourceTree](https://www.sourcetreeapp.com/) | Visual Git and Hg client       | `Win` `Mac` |
+| [GitAhead](https://gitahead.com/)            | A graphical Git client         | `Linux` `Win` `Mac` |
+| [Meld](https://meldmerge.org/)               | A visual diff and merge tool, supports two- and three-way comparison of files and directories  | `Linux` `Win` `Mac` |
 
 ### Modeling
 
