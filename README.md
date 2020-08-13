@@ -64,7 +64,7 @@ This list is dedicated for our team so tools with license issue using in our off
 | Name                                                         | Description                                                  |              Platform               |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :---------------------------------: |
 | AstahUML community edition [v6.9](https://members.change-vision.com/members/files/astah_community/6_9_0) | Rich feature UML 2.0 modeling tool                           |             `Win` `Mac`             |
-| [draw.io](https://about.draw.io/integrations/#integrations_offline) | Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. | `Web` `Chrome`  `Win` `Mac` `Linux` |
+| [diagrams.net](https://www.diagrams.net/) (draw.io)          | Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. | `Web` `Win` `Mac` `Linux` |
 | [PlantUML](http://plantuml.com/)                             | Create lightweight UML diagrams from a plain text language.  |      `Win` `Mac` `Linux` `Web`      |
 
 ### Shell and Terminal
